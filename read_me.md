@@ -1,2 +1,5 @@
-per eseguire il codice C presente in questa repository è necessario utilizzare il seguente comando linux:
+per compilare il codice C di questa directory
 gcc -o nome nome.c
+
+per eseguire il codice C di questa directory
+./nome
